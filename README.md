@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on a website project, i am not an expert yet but im working on hard ! I just like learning.
 - 📫 How to reach me is each part of yourself, each part of your code, of your projects, of your mind. So let's do it together !
 
+This is my first step on GitHub... Not sure doing well at the beginning, already sorry if i get wrong something for the start !
+
+
 <!---
 GuillaumeTechB/GuillaumeTechB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
